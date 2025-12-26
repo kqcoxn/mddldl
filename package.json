@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "face": "yolo detect train data=datasets/face/marked/data.yaml model=yolo11n.pt epochs=500 imgsz=640 batch=0.8 cos_lr=True patience=100"
+    }
+}
