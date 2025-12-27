@@ -1,8 +1,8 @@
 
-mddldl-face - v1 2025-12-27 10:36pm
+mddldl-face - v2 2025-12-27 10:58pm
 ==============================
 
-This dataset was exported via roboflow.com on December 27, 2025 at 2:37 PM GMT
+This dataset was exported via roboflow.com on December 27, 2025 at 2:58 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -22,7 +22,7 @@ Objects are annotated in YOLOv11 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
-* Resize to 1280x720 (Stretch)
+* Resize to 640x640 (Stretch)
 
 The following augmentation was applied to create 3 versions of each source image:
 * 50% probability of horizontal flip

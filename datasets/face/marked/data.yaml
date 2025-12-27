@@ -8,6 +8,6 @@ names: ['face']
 roboflow:
   workspace: kqcoxn-2yq4r
   project: mddldl-face
-  version: 1
+  version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/kqcoxn-2yq4r/mddldl-face/dataset/1
+  url: https://universe.roboflow.com/kqcoxn-2yq4r/mddldl-face/dataset/2
