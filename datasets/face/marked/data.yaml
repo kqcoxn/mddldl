@@ -2,12 +2,12 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 1
-names: ['face']
+nc: 2
+names: ['lf', 'rf']
 
 roboflow:
   workspace: kqcoxn-2yq4r
   project: mddldl-face
-  version: 2
+  version: 3
   license: CC BY 4.0
-  url: https://universe.roboflow.com/kqcoxn-2yq4r/mddldl-face/dataset/2
+  url: https://universe.roboflow.com/kqcoxn-2yq4r/mddldl-face/dataset/3

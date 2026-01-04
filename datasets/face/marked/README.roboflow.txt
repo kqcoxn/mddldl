@@ -1,8 +1,8 @@
 
-mddldl-face - v2 2025-12-27 10:58pm
+mddldl-face - v3 2026-01-04 9:23pm
 ==============================
 
-This dataset was exported via roboflow.com on December 27, 2025 at 2:58 PM GMT
+This dataset was exported via roboflow.com on January 4, 2026 at 1:24 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -25,7 +25,6 @@ The following pre-processing was applied to each image:
 * Resize to 640x640 (Stretch)
 
 The following augmentation was applied to create 3 versions of each source image:
-* 50% probability of horizontal flip
 * Randomly crop between 0 and 30 percent of the image
 * Random rotation of between -15 and +15 degrees
 
